@@ -51,6 +51,9 @@ Consider influenza epidemics for two parent heterosexual families. Suppose that 
 *** .hint
 $A = Father$, $P(A) = .10$, $B = Mother$, $P(B) = .09$
 $P(A\cup B) = .15$,
+```{r}
+.11+.09
+```
 
 *** .explanation
 $P(A\cup B) = P(A) + P(B) - P(AB)$ thus
